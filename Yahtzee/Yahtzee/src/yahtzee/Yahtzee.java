@@ -1,8 +1,4 @@
-/*
- * Karin Whiting
- * COP 3330 Object Oriented Programming
- * University of Central Florida
- */
+
 package yahtzee;
 
 import core.Game;
